@@ -1,0 +1,4 @@
+repository "My project@CS3Game@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -509,8 +509,8 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: 581010f3b9291d143852b7e27ea593db, type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: adc83f5cd76a69e4d8abc32b7e71bd50, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: adc83f5cd76a69e4d8abc32b7e71bd50, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: da7f9d995d3e4b844bdcaf9ecc5d7ca9, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: da7f9d995d3e4b844bdcaf9ecc5d7ca9, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: 581010f3b9291d143852b7e27ea593db, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -624,7 +624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b144bafe6802534489151b53e27b3dbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SceneName: Flappy Bird
+  SceneName: Flappy Bird Title
 --- !u!114 &1623580470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -655,8 +655,8 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: 581010f3b9291d143852b7e27ea593db, type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: adc83f5cd76a69e4d8abc32b7e71bd50, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: adc83f5cd76a69e4d8abc32b7e71bd50, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: da7f9d995d3e4b844bdcaf9ecc5d7ca9, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: da7f9d995d3e4b844bdcaf9ecc5d7ca9, type: 3}
     m_DisabledSprite: {fileID: 21300000, guid: 581010f3b9291d143852b7e27ea593db, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal

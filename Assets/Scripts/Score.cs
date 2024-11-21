@@ -26,8 +26,10 @@ public class Score : MonoBehaviour
     }
 
     private void UpdateHighScore() {
-        PlayerPrefs.SetInt("HighScore", _score);
-        _highScoreText.text = _score.ToString();
+        if(_score > PlayerPrefs.GetInt("HighScore")) {
+            PlayerPrefs.SetInt("HighScore", _score);
+            _highScoreText.text = _score.ToString();
+        }
     }
 
     public void UpdateScore() {

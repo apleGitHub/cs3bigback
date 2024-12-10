@@ -18,6 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Flappy Bird.unity
     guid: dd800ad32e210224bba6470aa0137d44
   - enabled: 1
+    path: Assets/Scenes/RT-Game.unity
+    guid: 145b34cbaf86a3f4eb8b0454f483b006
+  - enabled: 1
+    path: Assets/Scenes/Toast.unity
+    guid: 7dc65cc6d8c94a94aa291f1f69ad2055
+  - enabled: 1
+    path: Assets/Scenes/Uncooked-Toast.unity
+    guid: 5cc9f3e08cc708a45a9517b24f0beabd
+  - enabled: 1
     path: Assets/Scenes/Flappy Bird Title.unity
     guid: a530c578e2bad9e4982d53172aa61dc3
   m_configObjects: {}

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NEWWhiteZRescr 1_0: 7685489507376917607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

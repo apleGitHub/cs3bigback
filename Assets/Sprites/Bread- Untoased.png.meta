@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bread- Untoased_0: -6720200774898006756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

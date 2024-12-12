@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Toaster 1_0: -4628352112173269222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

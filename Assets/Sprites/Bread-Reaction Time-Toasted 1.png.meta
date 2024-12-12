@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bread-Reaction Time-Toasted 1_0: 2195155134555581049
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
